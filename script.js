@@ -2,7 +2,7 @@
 // Script Coded By @nazmulhasanovx << -- Telegram
 // Script Coded By @nazmulhasanovx << -- Telegram
 // Enter your leaderboard name
-let lname = " nazmulhasanov ";
+let lname = " professor  ";
 // Enter your initial capital
 let iblafp = 1000;
 
